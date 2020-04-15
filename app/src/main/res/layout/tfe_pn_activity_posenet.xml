@@ -28,10 +28,10 @@
 
   <android.support.v7.widget.Toolbar
       android:id="@+id/toolbar"
-      android:layout_width="match_parent"
+      android:layout_width="380dp"
       android:layout_height="wrap_content"
       android:layout_alignParentTop="true"
-      android:layout_marginTop="4dp"
+      android:layout_marginTop="2dp"
       android:background="@color/tfe_semi_transparent">
 
     <ImageView
